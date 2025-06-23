@@ -81,7 +81,7 @@ POST /users
 
 ## 🖼️ Request Example | Exemplo de Requisição
 
-![POST /users Example](./assets/post-users-example.png)
+![POST /users Example](./assets/api.png)
 
 ---
 
